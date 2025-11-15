@@ -14,9 +14,12 @@ dist-ssr
 coverage
 *.local
 
+<<<<<<< HEAD
 /cypress/videos/
 /cypress/screenshots/
 
+=======
+>>>>>>> 68c80fb0b465944489a1830ed6e90dda7e5210e4
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -28,3 +31,15 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+<<<<<<< HEAD
+=======
+
+.eslintcache
+
+# Cypress
+/cypress/videos/
+/cypress/screenshots/
+
+# Vitest
+__screenshots__/
+>>>>>>> 68c80fb0b465944489a1830ed6e90dda7e5210e4
